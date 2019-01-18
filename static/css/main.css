@@ -1743,6 +1743,11 @@
 		font-size: 2em;
 	}
 
+	article img{
+		margin: .5em 0 .5em 0;
+		width: 100%;
+	}
+
 /* Form */
 
 	form {
