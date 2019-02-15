@@ -1748,6 +1748,14 @@
 		width: 100%;
 	}
 
+	article figure.cert img{
+		margin: .5em 0 .5em 0;
+		width: 10em;
+	}
+	
+	article figure.cert figcaption {
+		text-align: center;
+	}
 /* Form */
 
 	form {
